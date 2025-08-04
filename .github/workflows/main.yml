@@ -1,4 +1,6 @@
-name: CI
+name: CIتغير بلعربي لغه عربي تغير كل ابرمجه 
+
+
 
 on: [push, pull_request]
 
